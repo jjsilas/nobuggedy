@@ -2682,6 +2682,16 @@ input, select, textarea {
 		position: relative;
 	}
 
+
+	#indexBanner {
+		background-image: url("/images/indexBanner.png");
+		background-position: center center;
+		background-size: cover;
+		height: 20em;
+		text-align: center;
+		position: relative;
+	}
+
 		#banner header {
 			position: absolute;
 			bottom: 0;
