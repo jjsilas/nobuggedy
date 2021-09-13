@@ -97,6 +97,16 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+
+
+
+
+.lowerPurchaseImage, .goTexan, .bottles, .lowerPurchaseText, .nbRocks, .reviewImage, .contactLinks {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 	body, input, select, textarea {
 		color: #474747;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -3272,6 +3282,12 @@ input, select, textarea {
 					font-size: 1em;
 				}
 
+				.purchaseText {
+
+					font-size: 5em;
+
+				}
+
 		/* Menu */
 
 			ul.menu li {
@@ -3303,6 +3319,8 @@ input, select, textarea {
 /* Mobile (Portrait) */
 
 	@media screen and (max-width: 480px) {
+
+		
 
 		/* Icon */
 
