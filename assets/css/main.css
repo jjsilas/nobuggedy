@@ -3288,6 +3288,10 @@ input, select, textarea {
 				height: 18em;
 			}
 
+			#indexBanner {
+				max-height: 6em;
+			}
+
 		/* Wrapper */
 
 			.wrapper {
